@@ -11,3 +11,14 @@ body {
 #azioni_da_fare {
   list-style-type: none;
 }
+
+#azioni_da_fare li {
+  color: black;
+}
+
+.elimina{
+  color: red;
+  cursor: pointer;
+  font-size: 20px;
+  margin: 2px;
+}
